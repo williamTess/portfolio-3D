@@ -12,6 +12,8 @@ import {
   Works,
 } from "./components";
 
+// 31min50sec
+
 const App = () => {
   return (
     <BrowserRouter>
